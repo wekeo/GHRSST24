@@ -27,10 +27,11 @@ wheels/
 
 # Large data
 *.zip
+*.nc
 
 # OSx junk
 *DS_Store*
 
 # Repo specific
-./products/
-./JUNO/
+**/products/
+**/JUNO/
