@@ -6,7 +6,6 @@ channels:
 dependencies:
   - conda-forge::python=3.8
   - conda-forge::jupyterlab
-  - conda-forge::numpy
   - conda-forge::xarray
   - conda-forge::dask
   - conda-forge::netcdf4
