@@ -14,5 +14,6 @@ dependencies:
   - conda-forge::ipykernel
   - conda-forge::pydap>3.3.0
   - conda-forge::matplotlib
+  - conda-forge::cartopy
   - conda-forge::beautifulsoup4
   - conda-forge::lxml

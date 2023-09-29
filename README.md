@@ -50,6 +50,7 @@ architecture.
 |ipykernel|6.4.1|BSD-3|https://anaconda.org/conda-forge/ipykernel|
 |pydap|3.4.0|MIT|https://anaconda.org/conda-forge/pydap|
 |matplotlib|3.5.1|PSFL|https://matplotlib.org/stable/users/project/license.html|
+|cartopy|0.21.1|LGPL-3|https://scitools.org.uk/cartopy/docs/latest/copyright.html|
 |beautifulsoup4|4.12.2|MIT|https://anaconda.org/conda-forge/beautifulsoup4|
 |lxml|4.9.3|BSD-3|https://anaconda.org/conda-forge/lxml|
 
