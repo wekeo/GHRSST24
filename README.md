@@ -44,6 +44,7 @@ architecture.
 |jupyterlab|4.0.2|BSD-3|https://anaconda.org/conda-forge/jupyterlab|
 |xarray|0.21.1|Apache-2.0|https://anaconda.org/conda-forge/xarray|
 |dask|2023.5.0|BSD-3|https://anaconda.org/conda-forge/dask|
+|ipywidgets|8.1.0|BSD-3|https://anaconda.org/conda-forge/ipywidgets|
 |netcdf4|1.5.8|MIT|https://anaconda.org/conda-forge/netcdf4|
 |bokeh|2.4.2|BSD-3|https://anaconda.org/conda-forge/bokeh|
 |ipykernel|6.4.1|BSD-3|https://anaconda.org/conda-forge/ipykernel|
